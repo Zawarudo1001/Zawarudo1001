@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zawarudo1001&layout=compact&theme=vision-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zawarudo1001&layout=compact&theme=friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  width="30" height="30"/>&nbsp;
